@@ -1,0 +1,6 @@
+Meeting Notes:
+
+- Review automation requirements
+- Rename old files
+- Delete unused folders
+- Backup project directories

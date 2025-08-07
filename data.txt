@@ -1,0 +1,4 @@
+User data collected from forms:
+- Name
+- Email
+- Preferences
